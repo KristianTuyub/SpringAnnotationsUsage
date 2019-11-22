@@ -16,7 +16,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="Tomcat 9.0.27" level="application_server_libraries" />
+    <orderEntry type="library" scope="PROVIDED" name="Tomcat 9.0.14" level="application_server_libraries" />
     <orderEntry type="library" name="spring-aop-5.2.1.RELEASE-javadoc" level="project" />
   </component>
 </module>
